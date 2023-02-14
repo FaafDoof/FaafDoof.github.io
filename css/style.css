@@ -19,6 +19,13 @@ body, html {
     align-items: center;
     justify-content: center;
 }
+
+
+.toolIcon {
+    max-width:100%;
+    height: auto;
+}
+
 .court {
     position: absolute;
     height: 90%;
